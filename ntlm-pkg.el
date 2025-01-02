@@ -1,2 +1,2 @@
 ;; Generated package description from ntlm.el  -*- no-byte-compile: t -*-
-(define-package "ntlm" "2.1.0.0.20240102.22814" "NTLM (NT LanManager) authentication support" 'nil :commit "7f377407b4b7d6ac9994ed983d7516bc42139885" :url "https://elpa.gnu.org/packages/ntlm.html" :authors '(("Taro Kawagishi" . "tarok@transpulse.org")) :maintainer '("Thomas Fitzsimmons" . "fitzsim@fitzsim.org") :keywords '("ntlm" "sasl" "comm"))
+(define-package "ntlm" "2.1.0.0.20250101.73917" "NTLM (NT LanManager) authentication support" 'nil :commit "b36b1be491e0b19062fa38ee197aa3daeba96415" :url "https://elpa.gnu.org/packages/ntlm.html" :authors '(("Taro Kawagishi" . "tarok@transpulse.org")) :maintainer '("Thomas Fitzsimmons" . "fitzsim@fitzsim.org") :keywords '("ntlm" "sasl" "comm"))
